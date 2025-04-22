@@ -1,0 +1,6 @@
+yfinance
+pandas
+prophet
+streamlit
+requests
+scikit-learn
